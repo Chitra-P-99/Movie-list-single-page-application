@@ -1,0 +1,45 @@
+
+.AddFav{
+    text-align: center;
+    display: flex;
+   margin-top: 100px;
+   padding: 30px 70px;
+   align-items: center;
+   margin-left: 400px;
+   margin-right: 300px;
+   border: 2px solid black;
+   
+}
+
+.form h1{
+
+
+   text-align: center;
+   color: crimson;
+  
+    
+}
+.addform input{
+    border: 1px solid crimson;
+    padding-inline: 20px 15px;
+  
+    margin: 10px 0;
+
+    box-sizing: border-box;
+   
+}
+.btn{
+    border-width: 2px;
+align-items: center;
+color: black;
+background-color: crimson;
+
+}
+.AddFav.image1{
+    
+    width: 1px;
+    height: 1px;
+    margin-left: 300px;
+    margin-top: 100px;
+border: 5px solid black;
+}

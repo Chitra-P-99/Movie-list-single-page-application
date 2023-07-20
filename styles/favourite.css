@@ -1,0 +1,53 @@
+.favourites{
+    margin: 40px;
+    background-color: black;
+    
+}
+.favourites h1{
+    color: white;
+    font-family: cursive;
+    margin-left: 20px;
+}
+.favourites h3{
+    color:white;
+    font-family: cursive;
+    margin-left: 20px;
+}
+.favourites a{
+    margin-left: 1000px;
+   
+    color: white;
+    border-width: 5px;
+}
+.favlist{
+    background-color: crimson;
+    width: 1109px;
+    margin-left: 20px;
+    border: 30px;
+}
+.favlist h2{
+    margin: 40px;
+    background-color: black;
+    height: 40px;
+}
+.favlist p{
+    margin: 20px;
+    color: white;   
+}
+.favourites button{
+    margin-left: 1000px;
+   border-width: 0px;
+    color: black;
+    background-color: crimson;
+    
+}
+.deleteicon{
+    background-color: black; 
+}
+.last h1{
+    background-color: black;
+    padding: 10px 10px;
+
+}
+
+
