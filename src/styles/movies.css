@@ -1,0 +1,32 @@
+.movies{
+    margin: 20px 0;
+    display: flex;
+    padding: 0 40px;
+    justify-content:space-evenly;
+    margin: auto;
+    width: 50%;
+    
+}
+ .main .heading{
+    display: flex;
+    justify-content: space-between;
+    
+    width: 90%;
+    margin: 40px ;
+    padding: 10px 0;
+}
+ .main .heading p{
+    color: rgb(220, 53, 88);
+}
+.movies  p{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.movies  img{
+    border-radius: 10px;
+    justify-content: space-between;
+    margin: 0px 10px;
+   margin-left: 10%;
+   
+} 

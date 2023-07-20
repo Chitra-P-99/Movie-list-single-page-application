@@ -1,0 +1,22 @@
+.secnavbar{
+    margin: auto;
+    background-color: black;
+    display: flex;
+    height: 40px;
+}
+.secnavbar a{
+    
+    color: white;
+    margin: 0px;
+    font-size: small;
+    text-decoration: none;
+    padding: 0px;
+
+}
+.secnavbar li{
+    margin: 0px;
+    display: inline;
+   padding: 5px;
+  
+
+}
