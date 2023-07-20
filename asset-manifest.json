@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Movie-list-single-page-application/static/css/main.9ab17637.css",
+    "main.js": "/Movie-list-single-page-application/static/js/main.aba32855.js",
+    "static/media/caros3.avif": "/Movie-list-single-page-application/static/media/caros3.e4a8682040fb37291bc0.avif",
+    "static/media/image1.avif": "/Movie-list-single-page-application/static/media/image1.bd23b497cac210907f13.avif",
+    "static/media/image5.avif": "/Movie-list-single-page-application/static/media/image5.30c14d7303bb1aafeb1f.avif",
+    "static/media/caros1.avif": "/Movie-list-single-page-application/static/media/caros1.16000f18f767d8e3dd56.avif",
+    "static/media/image3.avif": "/Movie-list-single-page-application/static/media/image3.de131d9d1a8160bcc2e0.avif",
+    "static/media/image2.avif": "/Movie-list-single-page-application/static/media/image2.f540697650f9c6ac409f.avif",
+    "static/media/image4.avif": "/Movie-list-single-page-application/static/media/image4.1e2776c39579318110b6.avif",
+    "static/media/formimg.PNG": "/Movie-list-single-page-application/static/media/formimg.63fab7e56030d868b613.PNG",
+    "static/media/caros4.avif": "/Movie-list-single-page-application/static/media/caros4.3c4fa6bcc4cff06d6bb4.avif",
+    "static/media/slide3.avif": "/Movie-list-single-page-application/static/media/slide3.ea273814138829d5f1a3.avif",
+    "static/media/logo.svg": "/Movie-list-single-page-application/static/media/logo.c21a9448803310a012c1310a101c3af6.svg",
+    "index.html": "/Movie-list-single-page-application/index.html",
+    "main.9ab17637.css.map": "/Movie-list-single-page-application/static/css/main.9ab17637.css.map",
+    "main.aba32855.js.map": "/Movie-list-single-page-application/static/js/main.aba32855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab17637.css",
+    "static/js/main.aba32855.js"
+  ]
+}
