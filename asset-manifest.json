@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Movie-list-single-page-application/static/css/main.9ab17637.css",
-    "main.js": "/Movie-list-single-page-application/static/js/main.aba32855.js",
+    "main.js": "/Movie-list-single-page-application/static/js/main.5bfe6b58.js",
     "static/media/caros3.avif": "/Movie-list-single-page-application/static/media/caros3.e4a8682040fb37291bc0.avif",
     "static/media/image1.avif": "/Movie-list-single-page-application/static/media/image1.bd23b497cac210907f13.avif",
     "static/media/image5.avif": "/Movie-list-single-page-application/static/media/image5.30c14d7303bb1aafeb1f.avif",
@@ -15,10 +15,10 @@
     "static/media/logo.svg": "/Movie-list-single-page-application/static/media/logo.c21a9448803310a012c1310a101c3af6.svg",
     "index.html": "/Movie-list-single-page-application/index.html",
     "main.9ab17637.css.map": "/Movie-list-single-page-application/static/css/main.9ab17637.css.map",
-    "main.aba32855.js.map": "/Movie-list-single-page-application/static/js/main.aba32855.js.map"
+    "main.5bfe6b58.js.map": "/Movie-list-single-page-application/static/js/main.5bfe6b58.js.map"
   },
   "entrypoints": [
     "static/css/main.9ab17637.css",
-    "static/js/main.aba32855.js"
+    "static/js/main.5bfe6b58.js"
   ]
 }
